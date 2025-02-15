@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Michael 👋  
 
-<!--
-**Ace1labyrinth/Ace1labyrinth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend Developer | React Enthusiast | Passionate about Clean UI/UX**  
 
-Here are some ideas to get you started:
+🔭 **I’m currently working on:** A Professional Service Marketplace  
+🌱 **I’m learning:** Backend development & APIs  
+👯 **I’m looking to collaborate on:** Open-source projects  
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/nwogbo-chinedu/) | [Twitter](https://x.com/mheazyace?s=21) | [Email](chinedunw2@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 **Tech Stack**  
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)  
+
+---
+
+### 📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ace1labyrinth&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace1labyrinth&layout=compact&theme=radical)  
+
+---
+
+### 🚀 **Projects**  
+- 🎟 [ConfTicket - Ticket Generator](https://github.com/Ace1labyrinth/confticket)  
+- 🛍 [E-commerce Platform](your-repo-link)  
+
+---
+
+⭐ **Follow me for more cool projects!**  
+
