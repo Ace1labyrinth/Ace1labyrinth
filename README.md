@@ -5,7 +5,7 @@
 🔭 **I’m currently working on:** A Professional Service Marketplace  
 🌱 **I’m learning:** Backend development & APIs  
 👯 **I’m looking to collaborate on:** Open-source projects  
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/nwogbo-chinedu/) | [Twitter](https://x.com/mheazyace?s=21) | [Email]((https://mail.google.com/mail/u/0/#inbox?compose=new))  
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/nwogbo-chinedu/) | [Twitter](https://x.com/mheazyace?s=21) | [Email](https://mail.google.com/mail/u/0/#inbox?compose=new)  
 
 ---
 
